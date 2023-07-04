@@ -41,7 +41,7 @@ public class RegisterController {
         Homepagecontroller homepagecontroller = (Start.Homepagecontroller) fxmlScence.controller;
         Parent root = fxmlScence.root;
 
-        stage.setScene(new Scene(root, 356, 476));
+        stage.setScene(new Scene(root, 776, 676));
     }
 
 }

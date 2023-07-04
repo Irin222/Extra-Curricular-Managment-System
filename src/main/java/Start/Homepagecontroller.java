@@ -47,7 +47,7 @@ public class Homepagecontroller {
         loginController loginController = (Start.loginController) fxmlScence.controller;
         Parent root = fxmlScence.root;
 
-        stage.setScene(new Scene(root, 676, 776));
+        stage.setScene(new Scene(root, 356, 476));
     }
 
     @FXML
